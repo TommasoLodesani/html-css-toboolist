@@ -74,7 +74,7 @@ header{
 
 /* titolo task */
 
-#entity{
+#entity-freccia{
     display: inline-block;
     height: 40px;
     line-height: 40px;
@@ -85,4 +85,16 @@ header{
 strong{
     font-size: 20px;
 }
+
+.fatto{
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    vertical-align: middle;
+    font-size: 20px;
+
+}
+
+
+
 
