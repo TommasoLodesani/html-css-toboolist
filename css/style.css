@@ -64,3 +64,25 @@ header{
     
 }
 
+/* section list */
+
+#list-elements{
+    margin: 20px;
+    padding: 15px;
+
+}
+
+/* titolo task */
+
+#entity{
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    vertical-align: middle;
+    font-size: 35px;
+}
+
+strong{
+    font-size: 20px;
+}
+
