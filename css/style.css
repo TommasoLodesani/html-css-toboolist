@@ -75,6 +75,10 @@ header{
 
 /* titolo task */
 
+#task{
+
+}
+
 #entity-freccia{
     display: inline-block;
     height: 40px;
@@ -88,6 +92,15 @@ strong{
 }
 
 .fatto{
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    vertical-align: middle;
+    font-size: 20px;
+
+}
+
+.non-fatto{
     display: inline-block;
     height: 40px;
     line-height: 40px;
@@ -116,6 +129,61 @@ strong{
     line-height: 25px ;
     border-radius: 10px;
     
+}
+
+.Q1goal{
+    display: inline-block;
+    background-color: #ba00a1;
+    width: 55px;
+    height: 25px;
+    font-size: 10px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px ;
+    border-radius: 10px;
+
+}
+
+.recruting{
+    display: inline-block;
+    background-color: #00ba5d;
+    width: 55px;
+    height: 25px;
+    font-size: 10px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px ;
+    border-radius: 10px;
+
+}
+
+.Website{
+    display: inline-block;
+    background-color: #ff00b3;
+    width: 55px;
+    height: 25px;
+    font-size: 10px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px ;
+    border-radius: 10px;
+
+}
+
+.sales{ 
+    display: inline-block;
+    background-color: #00c510;
+    width: 55px;
+    height: 25px;
+    font-size: 10px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px ;
+    border-radius: 10px;
 
 }
 
