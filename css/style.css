@@ -3,6 +3,7 @@
     margin: 0%;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 body{
@@ -14,19 +15,21 @@ body{
 header{
     height: 70px;
     background-color: white;
+    line-height: 70px;
 }
 
 #logo{
     padding: 10px 20px;
-    line-height: 90px;
     vertical-align: middle;
+    display: inline;
 
 }
 
 #logo-text{
     font-size: 40px;
     font-weight: 800;
-    display: inline-block;
+    vertical-align: middle;
+    display: inline;
 }
 
 /* corpo */
@@ -75,9 +78,6 @@ header{
 
 /* titolo task */
 
-#task{
-
-}
 
 #entity-freccia{
     display: inline-block;
@@ -113,11 +113,9 @@ strong{
     display: inline-block;
 }
 
-#todo-text{
-    font-weight: 700;
-}
 
-.editorial{
+
+.editorial {
     display: inline-block;
     background-color: #008CBA;
     width: 55px;
