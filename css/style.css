@@ -26,6 +26,7 @@ header{
 #logo-text{
     font-size: 40px;
     font-weight: 800;
+    display: inline-block;
 }
 
 /* corpo */
@@ -94,6 +95,32 @@ strong{
     font-size: 20px;
 
 }
+
+#todo-text{
+    display: inline-block;
+}
+
+#todo-text{
+    font-weight: 700;
+}
+
+.editorial{
+    display: inline-block;
+    background-color: #008CBA;
+    width: 55px;
+    height: 25px;
+    font-size: 10px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px ;
+    border-radius: 10px;
+    
+
+}
+
+
+
 
 
 
