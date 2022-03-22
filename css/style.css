@@ -8,3 +8,22 @@
 body{
     background-color: rgb(233, 233, 233);
 }
+
+/* header */
+
+header{
+    height: 70px;
+    background-color: white;
+}
+
+#logo{
+    padding: 10px 20px;
+    line-height: 90px;
+    vertical-align: middle;
+
+}
+
+#logo-text{
+    font-size: 40px;
+    font-weight: 800;
+}
